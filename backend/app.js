@@ -22,4 +22,4 @@ app.use(express.json());
 app.use("/api/auth", user);
 app.use("/api/sauces", sauce);
 
-module.exports = app;
+module.exports = app; 
